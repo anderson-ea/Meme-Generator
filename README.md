@@ -1,0 +1,1 @@
+Scrimba course project to polish react skills
